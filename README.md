@@ -1,12 +1,8 @@
 # network-firewall (Intelliffirewall)
-Monitor the internet traffic over the network with an amazing attractive interface.
-
-Project Description:
-
-Welcome to the Network Device Monitor! This project is designed to help you monitor all the devices connected to your network effortlessly. With a sleek and attractive interface, you can view real-time data about your network devices.
+This project is designed to help you monitor all the devices connected to your network effortlessly. With a sleek and attractive interface, you can view real-time data about your network devices.
 
 Features:
-Live Monitoring: See live updates of devices connected to your network.
+Live Monitoring: See live updates of devices connected to your network. In Apps Monitoring and many more
 User-Friendly Interface: Navigate through an attractive and intuitive interface.
 Easy Setup: Start monitoring with a simple command.
 Getting Started:
