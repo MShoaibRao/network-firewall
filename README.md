@@ -6,8 +6,11 @@ This project is designed to help you monitor all the devices connected to your n
   cd intellifirewall
   
 Install dependencies:
+
   pip install -r requirements.txt
+  
 Run the project:
+
   ./start.sh
   
 Requirements:
