@@ -1,5 +1,15 @@
 # network-firewall (Intelliffirewall)
 This project is designed to help you monitor all the devices connected to your network effortlessly. With a sleek and attractive interface, you can view real-time data about your network devices.
+Project description.
+_This System Monitors the internet usage from devices in the networks
+_Access Control( Controlled internet Environment)
+_ Blocking Unwanted traffic/ Application/ Device
+_ VPN Detection
+_ Remote Access
+_ Comprehensive Internet Usage Reporting 
+_ Attractive user Interface
+
+
 
   git clone https://github.com/yourusername/intellifirewall.git
   
